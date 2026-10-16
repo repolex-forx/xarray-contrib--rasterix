@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "rasterix",
+  "versions": [
+    {
+      "commit": "92131e0d5a0568bff2ccb46c8d44f0586490256f",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:25:42.128138+00:00"
+    }
+  ]
+}
