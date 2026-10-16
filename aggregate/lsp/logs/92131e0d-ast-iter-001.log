@@ -1,0 +1,7 @@
+[2026-10-16T03:24:23Z] === AST ITERATION 1 START | repo=xarray-contrib/rasterix sha=92131e0d ===
+[2026-10-16T03:24:23Z] [iter=1] PHASE START: ast repo=xarray-contrib/rasterix sha=92131e0d
+[2026-10-16T03:24:23Z] [iter=1] Building AST aggregate chunks
+[2026-10-16T03:24:44Z] [iter=1] AST chunks built count=1 triples=279257
+[2026-10-16T03:24:44Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/92131e0d5a0568bff2ccb46c8d44f0586490256f/.complete
+[2026-10-16T03:24:44Z] [iter=1] PHASE END: ast elapsed_s=21 elapsed_min=0.4
+[2026-10-16T03:24:44Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
